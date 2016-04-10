@@ -11,10 +11,10 @@ var c=0;
 
 //Twitter client
  var client = new twitter({
-  consumer_key: 'bH0uAzyUCdyiF7p66leR1DA6K',
-  consumer_secret: 'PwLriNTx7GcukLFB33AqUx8jnQmnD2MFj3LlqUdPN8DolcXmp4',
-  access_token_key: '185671827-hEPCxK9FhKzSo0FmZM6OPi67256YXfFJOi7iR6it',
-  access_token_secret: 'EPiYVc7eE3M9KTTlRZCOXb1ofPwmMebHr6G2kdSBzgOhz'
+  consumer_key: '',
+  consumer_secret: '',
+  access_token_key: '',
+  access_token_secret: ''
 });
 
 //stream the hashmaps which contains hashtags and english characters only
